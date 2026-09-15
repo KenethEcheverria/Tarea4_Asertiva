@@ -8,6 +8,7 @@
 ---
 
 # Protocolo CLARO para la comunicación de equipos virtuales
+![Protocolo CLARO](https://i.imgur.com/MpW0eap.png)
 
 ## Descripción
 
