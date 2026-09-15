@@ -67,3 +67,4 @@ El equipo contará con un plan de fallback para mantener la continuidad del trab
 La aplicación del Protocolo CLARO busca mejorar la comunicación, coordinación y organización del equipo virtual, reduciendo malentendidos y asegurando que las tareas, decisiones y responsabilidades queden claramente establecidas.
 
 ## Video
+https://youtu.be/iu86XYSi8PE
